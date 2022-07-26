@@ -19,4 +19,4 @@ To use this program, you will not need command-line arguments, but you will need
 * hashes.txt - This text file contains the hashes that are to be cracked
 
 ## Output
-After execution of the program, a cracked.txt file will be created. This text file will contain all 50 hashes in the following format: "hash":"password". Hashes that were not cracked will be followed by a blank space.
+After execution of the program, a cracked.txt file will be created. This text file will contain all 50 hashes in the following format: `hash:password`. Hashes that were not cracked will be followed by a blank space.
